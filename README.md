@@ -37,7 +37,6 @@ For the challenge details and how to submit, please refer to:
 
 - [Beginner Challenge sub-page](#TODO)
 
-
 ### Advanced
 
 Build a fully functional DApp with Fat Contract on Phala Testnet.
@@ -54,6 +53,13 @@ For the challenge details and how to submit, please refer to:
 
 - [Advanced Challenge sub-page](#TODO)
 
+### **In addition, documentation and tutorial contributions are elegible to our [Bounty Program](https://github.com/Phala-Network/bounty-program).**
+
+The contribution can be:
+
+- Fixes or improvements on our [wiki repo](https://github.com/Phala-Network/phala-wiki-next)
+- Published video tutorials on Youtube and Twitter (please submit an issue in the Code Bounty Program repo)
+- Documentation or bug fixes in our [main repo](https://github.com/Phala-Network/phala-blockchain) or [JS SDK](https://github.com/Phala-Network/js-sdk)
 
 ## 💬 Chat and Support
 
