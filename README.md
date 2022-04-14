@@ -35,23 +35,23 @@ Follow the Fat Contract Tutorial to complete the challenge. You can get 100 PHA 
 
 For the challenge details and how to submit, please refer to:
 
-- [Beginner Challenge sub-page](#TODO)
+- [Beginner Challenge sub-page](beginner-challenge.md)
 
 ### Advanced
 
 Build a fully functional DApp with Fat Contract on Phala Testnet.
 
-We don't limit the scope or type of the DApp. When the hackathon is finished, the Phala team will judge the submission and pick up the winners of prizes:
+We don't limit the scope or type of the DApp. When the hackathon is finished, the Phala team will judge the submission and pick up the winners of prizes (in PHA):
 
-| 1st | 2nd | 3rd | plus |
-| --- | --- | --- | ---- |
-| TBA | TBA | TBA | TBA  |
+| 1st  | 2nd  | 3rd  | plus                              |
+| ---- | ---- | ---- | --------------------------------- |
+| 5000 | 3500 | 1750 | 800 for each qualified submission |
 
 A qualified DApp should be _useful_ to solve some real-world problems or bring fun to people. It should also utilize the unique features of Phala (privacy-preserving, computation-intensive, or with HTTP requests)
 
 For the challenge details and how to submit, please refer to:
 
-- [Advanced Challenge sub-page](#TODO)
+- [Advanced Challenge sub-page](advanced-challenge.md)
 
 ### **In addition, documentation and tutorial contributions are elegible to our [Bounty Program](https://github.com/Phala-Network/bounty-program).**
 

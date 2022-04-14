@@ -22,10 +22,10 @@ The challenges are in two categories: (1) Beginner, (2) Advanced.
 | Challenge            | Prize (in PHA) | Winners |
 | -------------------- | -------------- | ------- |
 | Beginner Challenge   | 500            | 50      |
-| Advanced - 1st       | TBA            | 1       |
-| Advanced - 2nd       | TBA            | 1       |
-| Advanced - 3rd       | TBA            | 1       |
-| Advanced - qualified | TBA            | -       |
+| Advanced - 1st       | 5000           | 1       |
+| Advanced - 2nd       | 3500           | 1       |
+| Advanced - 3rd       | 1750           | 1       |
+| Advanced - qualified | 800            | -       |
 
 ### **In addition, documentation and tutorial contributions are elegible to our [Bounty Program](https://github.com/Phala-Network/bounty-program).**
 
