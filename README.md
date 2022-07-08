@@ -53,7 +53,7 @@ For the challenge details and how to submit, please refer to:
 
 - [Advanced Challenge sub-page](advanced-challenge.md)
 
-### **In addition, documentation and tutorial contributions are elegible to our [Bounty Program](https://github.com/Phala-Network/bounty-program).**
+### **In addition, documentation and tutorial contributions are eligible to our [Bounty Program](https://github.com/Phala-Network/bounty-program).**
 
 The contribution can be:
 
